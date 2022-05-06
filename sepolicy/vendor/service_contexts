@@ -3,3 +3,8 @@ android.hardware.vibrator.IVibrator/vibratorfeature                          u:o
 
 # Xiaomi Miui Multi Fisplay
 miui_multi_display     u:object_r:miui_multi_display:s0
+
+# Xiaomi Camera labels
+DisplayFeatureControl       u:object_r:DisplayFeatureControl:s0
+perfshielder                u:object_r:perfshielder:s0
+ProcessManager              u:object_r:ProcessManager:s0
